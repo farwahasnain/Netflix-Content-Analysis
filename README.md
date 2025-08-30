@@ -5,7 +5,7 @@
 ![Visualization](https://img.shields.io/badge/Visualization-Pivot%20Charts-orange?style=flat&logo=tableau&logoColor=white)  
 ![PDF](https://img.shields.io/badge/Insights-PDF-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)  
 
-**Created by:** Farwah Hasnain  
+**Analyzed by:** Farwah Hasnain  
 **Date:** June 2025  
 
 ---
@@ -64,3 +64,5 @@ Netflix’s global expansion tells a fascinating story through data. This projec
 ---
 
 ✨ Thanks for stopping by! Feedback & suggestions are always welcome.
+👤 **Author**: *[Farwah Hasnain]*  
+📧 Contact: [farwah.hasnain@gmail.com] | 🌐 [LinkedIn](https://www.linkedin.com/in/farwah-hasnain/)
