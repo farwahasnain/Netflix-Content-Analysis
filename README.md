@@ -24,7 +24,7 @@ The goal: **Transform raw data into clear, interactive insights** through cleani
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard Preview](Dashboard.png)  
+![Netflix Dashboard Preview](Netflix_Dashboard.png)  
 *Interactive Excel dashboard showing key trends, top genres, and country contributions.*  
 
 ---
