@@ -24,10 +24,8 @@ The goal: **Transform raw data into clear, interactive insights** through cleani
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard Preview](link-to-your-dashboard-screenshot.png)  
+![Netflix Dashboard Preview](Dashboard.png)  
 *Interactive Excel dashboard showing key trends, top genres, and country contributions.*  
-
-> **Tip:** Save a clear PNG screenshot of your Excel dashboard and push it to your repository, then replace the `link-to-your-dashboard-screenshot.png` with the relative path, e.g., `images/dashboard.png`.
 
 ---
 
@@ -65,5 +63,5 @@ Netflix’s global expansion tells a fascinating story through data. This projec
 
 ✨ Thanks for stopping by! Feedback & suggestions are always welcome.
 
-👤 **Author**: *[Farwah Hasnain]*  
+👤 **Author**: *Farwah Hasnain*  
 📧 Contact: [farwah.hasnain@gmail.com] | 🌐 [LinkedIn](https://www.linkedin.com/in/farwah-hasnain/)
