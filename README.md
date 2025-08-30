@@ -64,5 +64,6 @@ Netflix’s global expansion tells a fascinating story through data. This projec
 ---
 
 ✨ Thanks for stopping by! Feedback & suggestions are always welcome.
+
 👤 **Author**: *[Farwah Hasnain]*  
 📧 Contact: [farwah.hasnain@gmail.com] | 🌐 [LinkedIn](https://www.linkedin.com/in/farwah-hasnain/)
